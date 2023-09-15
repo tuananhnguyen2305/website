@@ -82,6 +82,6 @@ h5:hover {
 }
 
 Footer {
-    position: relative;
+    position: sticky;
 }
 </style>

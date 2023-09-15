@@ -5,6 +5,12 @@
       "email": "nta2003@gmail.com",
       "password": "123456",
       "id": 1
+    },
+    {
+      "name": "tom",
+      "email": "123",
+      "password": "123",
+      "id": 2
     }
   ]
 }
